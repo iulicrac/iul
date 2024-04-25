@@ -1,9 +1,9 @@
 track name="Track: CNVs" description="CNVs" visibility=2 itemRgb="On"
-chr1	1372631	1454207	GeneNamePlaceholder	100	.	0	0	255,0,0
-chr1	12865656	12870842	GeneNamePlaceholder	100	.	0	0	255,0,0
-chr1	17227626	17274911	GeneNamePlaceholder	100	.	0	0	255,0,0
-chr1	25525914	25663071	GeneNamePlaceholder	100	.	0	0	255,0,0
-chr1	161491342	161642774	GeneNamePlaceholder	100	.	0	0	255,0,0
+chr1	1372631	1454207	GeneNamePlaceholder	10	.	0	0	255,0,0
+chr1	12865656	12870842	GeneNamePlaceholder	40	.	0	0	255,0,0
+chr1	17227626	17274911	GeneNamePlaceholder	500	.	0	0	255,0,0
+chr1	25525914	25663071	GeneNamePlaceholder	270	.	0	0	255,0,0
+chr1	161491342	161642774	GeneNamePlaceholder	30	.	0	0	255,0,0
 chr1	196718178	196902339	GeneNamePlaceholder	100	.	0	0	255,0,0
 chr2	50883299	50935495	GeneNamePlaceholder	100	.	0	0	255,0,0
 chr2	87821566	87949702	GeneNamePlaceholder	100	.	0	0	255,0,0
