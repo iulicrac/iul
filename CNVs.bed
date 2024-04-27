@@ -9,11 +9,8 @@ chr2	50883299	50935495	GeneNamePlaceholder	100	.	0	0	255,0,0
 chr2	87821566	87949702	GeneNamePlaceholder	100	.	0	0	255,0,0
 chr2	90064143	90229606	GeneNamePlaceholder	100	.	0	90229606	255,0,0
 chr2	110849297	110980922	GeneNamePlaceholder	100	.	0	0	255,0,0
-chr2	242853892	242988298	GeneNamePlaceholder	100	.	0	0	255,0,0
-chr3	1439342	1691090	GeneNamePlaceholder	100	.	0	0	255,0,0
 chr3	4137744	4293785	GeneNamePlaceholder	100	.	0	0	255,0,0
 chr3	75438103	75476786	GeneNamePlaceholder	100	.	0	0	255,0,0
-chr3	161465299	161546527	GeneNamePlaceholder	100	.	0	0	255,0,0
 chr6	275560	376502	GeneNamePlaceholder	100	.	0	0	255,0,0
 chr6	29656577	29709234	GeneNamePlaceholder	100	.	0	0	255,0,0
 chr6	31963859	32702813	GeneNamePlaceholder	100	.	0	0	255,0,0
@@ -28,5 +25,4 @@ chr16	16620326	16698433	GeneNamePlaceholder	100	.	0	0	255,0,0
 chr19	41349249	41393080	GeneNamePlaceholder	100	.	0	0	255,0,0
 chr19	43258579	43576164	GeneNamePlaceholder	100	.	0	0	255,0,0
 chr19	43679912	43847904	GeneNamePlaceholder	100	.	0	0	255,0,0
-chr22	25747496	25849697	GeneNamePlaceholder	100	.	0	0	255,0,0
-chr22	25849697	25911773	GeneNamePlaceholder	100	.	0	0	255,0,0
+chr22	25747496	25911773	GeneNamePlaceholder	100	.	0	0	255,0,0
